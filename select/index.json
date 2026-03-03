@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Mount Everest",
+  "base_artist": "Labrinth",
+  "createdAt": "2026-03-03T14:10:15.075438Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mount Everest",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/01_Mount_Everest_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mount Everest - Bonus Track",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/02_Mount_Everest_-_Bonus_Track_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mount Everest",
+      "artist": "Christina Stürmer",
+      "has_synced": false,
+      "path": "select/03_Mount_Everest_Christina_Stürmer.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mount Everest",
+      "artist": "Christina Stürmer",
+      "has_synced": true,
+      "path": "select/04_Mount_Everest_Christina_Stürmer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mount Everest",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/05_Mount_Everest_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mount Everest (Bonus)",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/06_Mount_Everest_(Bonus)_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mount Everest",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/07_Mount_Everest_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mount Everest (Original Mix)",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/08_Mount_Everest_(Original_Mix)_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mount Everest",
+      "artist": "Teenage Fanclub",
+      "has_synced": true,
+      "path": "select/09_Mount_Everest_Teenage_Fanclub.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Climbing Up Mount Everest",
+      "artist": "Cliff Richard",
+      "has_synced": false,
+      "path": "select/10_Climbing_Up_Mount_Everest_Cliff_Richard.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mount Everest",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/11_Mount_Everest_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mount Everest (Official Video)",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/12_Mount_Everest_(Official_Video)_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Labrinth - Mount Everest (Official Video)",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/13_Labrinth_-_Mount_Everest_(Official_Video)_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Labrinth - Mount Everest (Official Audio)",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/14_Labrinth_-_Mount_Everest_(Official_Audio)_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mount Everest",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/15_Mount_Everest_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mount Everest (Official Audio)",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/16_Mount_Everest_(Official_Audio)_Labrinth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mount Everest",
+      "artist": "Labrinth",
+      "has_synced": false,
+      "path": "select/pl_01_Mount_Everest_Labrinth.txt"
+    }
+  ]
+}
