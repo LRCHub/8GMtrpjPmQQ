@@ -1,0 +1,53 @@
+# Labrinth – Mount Everest
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.84] Mount Everest ain't got shit on me
+[00:06.11] Mount Everest ain't got shit on me
+[00:10.01] 'Cause I'm on top of the world
+[00:12.84] I'm on top of the world, yeah
+[00:16.71] Burj Dubai ain't got shit on me
+[00:21.76] You could touch the sky but you ain't got shit on me
+[00:25.98] 'Cause I'm on top of the world
+[00:28.78] I'm on top of the world
+[00:31.45] Eh
+[00:32.80] Woop
+[00:34.12] Woop
+[00:35.49] Woop
+[00:36.78] Woop, woop, woop
+[00:38.12] Woop
+[00:39.43] Woop
+[00:40.76] Woop
+[00:43.26] Sweet, sweet
+[00:48.10] Huh
+[00:48.83] Woop
+[00:50.13] Woop, ah
+[00:51.47] Woop
+[00:52.80] Woop, woop, woop
+[00:54.09] Woop
+[00:55.45] Woop
+[00:56.76] Woop
+[00:59.26] Sweet, sweet
+[01:04.06] (Tell 'em)
+[01:05.30] I burn down my house and build it up again
+[01:09.43] (Tell 'em)
+[01:10.61] I burn it down twice just for the fun of it
+[01:14.70] (Tell 'em)
+[01:15.65] So much money I don't know what to do with it
+[01:20.02] (Tell 'em)
+[01:21.30] I don't pick up my phone, ain't no one worth the time
+[01:25.45] (Tell 'em)
+[01:26.61] I got me one gun and an alibi
+[01:30.78] (Tell 'em)
+[01:31.60] So much love that the whole thing feel like a lie
+[01:36.10] Don't need nobody
+[01:38.01] I don't need nobody
+[01:40.09] I don't need nobody
+[01:41.38] I don't need nobody
+[01:43.47] I don't need nobody
+[01:45.44] Don't need nobody
+[01:46.12] (To save me)
+[01:47.40] (Sweet, sweet)
+[02:14.11] Mount Everest ain't got shit on me
+```
